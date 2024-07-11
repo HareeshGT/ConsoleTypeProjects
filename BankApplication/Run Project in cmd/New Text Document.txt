@@ -1,0 +1,3 @@
+cd D:\java programs\ProjectConsole\BankingApp(path of the project)
+javac -d bin -sourcepath src src\bankingApp\*.java
+java -cp bin bankingApp.Main
